@@ -1,5 +1,5 @@
 token=NTI1OTk3ODY3MjQ5NDM0NjI0.Dv-2hA.GXu4FedwcYW1y7m_H2hq3J281Mg
-owner= 
+owner= 517844009301835776
 prefix= 1
 game= I dk ._.
 stayinchannel=true
