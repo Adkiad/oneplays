@@ -1,6 +1,6 @@
-token=NTE3NjkwMjYzNTc0MTUxMTY5.DuIy6g.5Yr7P7Svlf2Upbob2yE38mG4KUs 
-owner=489379054584201247 
-prefix= 3
-game= 3play
+token=NTI1OTk3ODY3MjQ5NDM0NjI0.Dv-2hA.GXu4FedwcYW1y7m_H2hq3J281Mg
+owner= 
+prefix= 1
+game= I dk ._.
 stayinchannel=true
 songinstatus=true 
